@@ -1,1 +1,5 @@
-Two ways of setting back image and video based on USB CAMERA of Raspberry Pi
+Two ways of setting back image and video based on USB CAMERA of Raspberry Pi.
+  The first way is using the tool called mplayer, watching video in the terminal. One of the advantages of mplayer is the convenient configuration, making it easy to real time watching. Besides, mplayer doesn't occupy the main resource of pi, which provides it easier working on other functions. Conversely, the drawback of mplayer is that it can't be put online for other viewers at the same moment.
+  Another effective way is called motion, which is also used generally in our FPGA-Remote-Lab project. Although many people may get annoyed when configuring the environment or preparing the neccessary materials, the appeal of motion is that it can be programmed online. As I mentioned in mplayer.sh, many people can watch the video send back from the lab at the same time. In order to provide many teachers and students the video in the very first time, we finally decided to apply motion to our program.
+
+
