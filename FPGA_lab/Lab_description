@@ -1,3 +1,9 @@
 Lab Description
 
-#1 led_water 流水灯
+#1 led_water    流水灯实验
+#2 key_led      按键转换灯模式
+#3 I2c_e2prom   I2c读写实验
+#4 Uart         串口通信实验
+
+
+
