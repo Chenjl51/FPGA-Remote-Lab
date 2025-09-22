@@ -1,12 +1,15 @@
 Lab Description
 
-#1 led_water        流水灯实验
-#2 key_led          按键转换灯模式
-#3 I2c_e2prom       I2c读写实验
-#4 Uart             串口通信实验
-#5 HDMI_colorbar    HDMI显示彩条
-#6 HDMI_loop        HDMI回环显示
-#7 OV5640           摄像头图像回传
-#8 Ethernet         以太网实验
-
-
+#1  led_water        流水灯实验
+#2  key_led          按键转换灯模式
+#3  I2c_e2prom       I2c读写实验
+#4  Uart             串口通信实验
+#5  HDMI_colorbar    HDMI显示彩条
+#6  HDMI_loop        HDMI回环显示
+#7  OV5640           摄像头图像回传
+#8  Ethernet         以太网实验
+#9  Sin_wave         输出正弦波
+#9  Sin_wave         输出正弦波
+#10 Square_wave      输出方波
+#11 Triangle_wave    输出三角波
+#12 Sawtooth_wave    输出锯齿波
